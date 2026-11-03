@@ -545,11 +545,7 @@ total =1
 # response=requests.get(url)
 # soup=BeautifulSoup(response.text,"html.parser")
 # div=(soup.find("div", class_= "product_price"))
-# print(div.p.text)
-
-
-
-
+# print(di
 
 
 
